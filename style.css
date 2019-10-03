@@ -1,0 +1,31 @@
+body{
+ margin:60px auto;
+ width:70%;
+ }
+ 
+ ul {
+   font-family:'sams-serif';
+   padding:0px;
+   list-style:none;
+   font-weight:bold;
+   }
+   nav ul li,footer ul li{
+   display:inline;
+   margin-right:20px;
+   }
+   a{
+    text-decoretion.none;
+    color#999
+    }
+    h1{
+    font-size:3em;
+    font-family:'Helvetica','Arial','San-sarif';
+    }
+    p{
+    font-size:1.5em;
+    font-height:1.4em;
+    color:#333;
+    }
+    
+
+    
